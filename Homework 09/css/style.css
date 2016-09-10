@@ -1242,3 +1242,375 @@ footer {
         padding-top: 50px;
     }
 }
+
+@media only screen and (min-width: 1367px) {
+    
+    .container {
+    min-width: 960px;
+    max-width: 2400px;
+    width: 100%;
+    margin: 0 auto;
+    }
+
+    .logo {
+        margin-left: 0px;
+    }
+
+    .last {
+        padding-right: 0px;
+    }
+
+    .topmenu ul li {
+        display: inline-block;
+        vertical-align: top;
+        list-style: none;
+        padding-right: 46px;
+        margin-top: 66px;
+    }
+
+    .last .topmenu ul li:last-child {
+        padding-right: 0px;
+    }
+
+    .topmenu ul li a {
+        color: #fff;
+        font-family: "LeagueGothic", Arial, sans-serif;
+        font-size: 24px;
+        text-shadow: 1px 2px 2px rgba(0,0,0,.4);
+        text-transform: uppercase;
+    }
+
+    .topmenu ul {
+        padding-left: 0px;
+    }
+
+    .wrapper_slider {
+        width: 100%;
+        margin: 0 auto;
+        padding: 89px 0px 0px 24px;
+    }
+
+    .wrapper_480 {
+        height: 400px;
+        width: 100%;
+        background: rgba(0,0,0,0.2);
+        margin-top: 165px;
+    }
+
+    .lorem {
+        font-size: 60px;
+    }
+
+    .dreams {
+        font-size: 32px;
+        margin-top: -18px;
+    }
+
+    .wrapper_slider {
+        padding: 64px 0px 0px 0px;
+    }
+
+    .semper {
+        font-size: 18px;
+        font-family: "OpenSans", sans-serif;
+        line-height: 24px;
+        color: #fff;
+        text-shadow: 0 1px 0 #0e1418;
+        padding-right: 81px;
+    }
+
+    .iphone_4 {
+        margin-top: -18px;
+        margin-left: -23px;
+    }
+
+    .radio_slider {
+        margin-right: 135px;
+        padding-top: 74px;
+        padding-bottom: 54px;
+    }
+
+    .wrapper_re_1,
+    .wrapper_re_2,
+    .wrapper_re_3 {
+        padding-top: 54px;
+    }
+
+    .first {
+        padding-bottom: 66px;
+    }
+
+    .head_1 {
+        margin-left: 22px;
+        font-size: 30px;
+    }
+
+    .head_2 {
+        margin-left: 27px;
+        font-size: 30px;
+    }
+
+    .head_3 {
+        margin-left: 35px;
+        font-size: 30px;
+    }
+
+    .sprite {
+        margin: 28px 0px 0px 27px;
+    }
+
+    .sprite_2 {
+        margin: 28px 0px 0px 29px;
+    }
+
+    .sprite_3 {
+        margin: 29px 0px 0px 49px;
+    }
+
+    .col_1 {
+        padding-left: 20px;
+        height: 119px;
+        margin-top: -5px;
+        line-height: 24px;
+        padding-right: 0px;
+    }
+
+    .col_2 {
+        padding-left: 7px;
+        height: 119px;
+        margin-top: -5px;
+        line-height: 24px;
+    }
+
+    .col_3 {
+        padding-left: 7px;
+        height: 119px;
+        margin-top: -5px;
+        line-height: 24px;
+    }
+
+    .href_1,
+    .href_2,
+    .href_3 {
+        display: block;
+        margin-top: 5px;
+    }
+
+    .href_2 {
+        padding-left: 33px;
+    }
+
+    .href_3 {
+        padding-left: 33px;
+    }
+
+    .white_back {
+        width: 427px;
+        height: 272px;
+        margin-top: 101px;
+        margin-left: 25px;
+    }
+
+    .face {
+        margin-left: -38px;
+    }
+
+    .pingbull {
+        margin: 34px 0px 0px -62px;
+    }
+
+    .pingbuller {
+        font-size: 30px;
+    }
+
+    .starts {
+        margin-left: -3px;
+        font-size: 30px;
+    }
+
+    .text {
+        width: 400px;
+        height: 175px;
+        padding: 3px 17px 0px 24px;
+        line-height: 24px;
+    }
+
+    .mid {
+        margin: 123px 0px 0px -37px;
+    }
+
+    .recent {
+        padding-left: 66px;
+    }
+
+    .nunc {
+        font-size: 18px;
+        line-height: 12px;
+    }
+
+    .posted {
+        padding-left: 20px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .half {
+        padding-right: 0px;
+        padding-left: 2px;
+    }
+
+    .rightPad {
+        padding-right: 0px;
+    }
+
+    .read_more {
+        margin-right: -26px;
+    }
+
+    .logotypes_1 {
+        margin-left: 95px;
+    }
+
+    .logotypes_2 {
+        margin-left: 69px;
+    }
+
+    .logotypes_3 {
+        margin-left: 45px;
+    }
+
+    .logotypes_4 {
+        margin-left: 25px;
+    }
+
+    .logotypes_5 {
+        margin-left: -17px;
+        padding-top: 20px;
+        margin-bottom: 0px;
+    }
+
+    .logotypes_6 {
+        margin-left: -8px;
+        margin-bottom: 0px;
+    }
+
+    .logotypes_1,
+    .logotypes_2,
+    .logotypes_3,
+    .logotypes_4,
+    .logotypes_5,
+    .logotypes_6 {
+        height: 94px;
+    }
+
+    .logotypes_1,
+    .logotypes_2,
+    .logotypes_3,
+    .logotypes_4 {
+        margin-bottom: 0px;
+    }
+
+    .mid {
+        margin-bottom: 5px;
+    }
+
+    .second {
+        padding-top: 24px;
+        padding-bottom: 0px;
+    }
+
+    .third {
+        padding-top: 85px;
+        padding-bottom: 79px;
+        background: #ececec;
+    }
+
+    .wraptop_1 {
+        padding-right: 0px;
+        color: #454545;
+        font-family: "LeagueGothic", Arial, sans-serif;
+        font-size: 48px;
+        text-shadow: 0 1px 0 #fff;
+        text-transform: uppercase;
+        width: 140px;
+        height: 68px;
+    }
+
+    .wraptop_2 {
+        padding-left: 0px;
+        color: #b8b8b8;
+        font-family: "LeagueGothic", Arial, sans-serif;
+        font-size: 48px;
+        text-shadow: 0 1px 0 #fff;
+        text-transform: uppercase;
+        height: 50px;
+    }
+
+    .wraptop_3 {
+        color: #c5c5c5;
+        font-family: "Georgia", serif;
+        font-size: 16px;
+        font-style: italic;
+        text-shadow: 0 1px 0 #fff;
+    }
+
+    .newscat_2,
+    .newscat_3 {
+        color: #454444;
+        font-family: "LeagueGothic";
+        font-size: 30px;
+        text-shadow: 0 1px 0 #fff;
+        text-transform: uppercase;
+        padding-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .nunctur_1 {
+        height: 120px;
+        overflow: hidden;
+        line-height: 24px;
+    }
+
+    .nunctur_2,
+    .nunctur_3 {
+        line-height: 24px;
+    }
+
+    .footmenu ul li {
+        display: inline-block;
+        vertical-align: top;
+        list-style: none;
+        padding-right: 40px;
+    }
+
+    .footmenu ul li a {
+        text-decoration: none;
+        color: #fff;
+        font-family: "LeagueGothic", Arial, sans-serif;
+        font-size: 20px;
+        text-shadow: 1px 2px 2px rgba(0,0,0,.4);
+        text-transform: uppercase;
+    }
+
+    .footmenu ul {
+        padding-left: 0px;
+    }
+
+    .wrapfoot {
+        height: 114px;
+    }
+
+    .footmenu {
+        padding-top: 50px;
+        padding-left: 0px;
+    }
+
+    footer {
+        height: 114px;
+    }
+
+    .center {
+        height: 114px;
+        padding-top: 50px;
+    }
+}

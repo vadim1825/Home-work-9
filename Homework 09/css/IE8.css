@@ -151,7 +151,7 @@ footer {
     }
 
     .third {
-    display: block;
+        display: block;
     }
 
     .wrapper_480 {
@@ -162,6 +162,25 @@ footer {
     .radio_slider {
         padding-top: 10px;
         padding-bottom: 10px;
+    }
+
+}
+
+@media only screen and (min-width: 1367px) {
+
+    body header .container {
+        min-width: 1366px;
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .third {
+        display: block;
+    }
+
+    .wrapper_480 {
+        -ms-filter:
+            "progid:DXImageTransform.Microsoft.gradient(startColorstr=#32000000, endColorstr=#32000000)";
     }
 
 }
